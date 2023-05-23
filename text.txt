@@ -2,7 +2,6 @@ Hello! I'm your text
 
 some changes comes
 
-<<<<<<< HEAD
 123{alert}
 
 broccoli status
@@ -10,4 +9,3 @@ broccoli status
 Sapfire goosebumps
 =======
 123{alert}
->>>>>>> parent of 67d0fb0 (Test status)
